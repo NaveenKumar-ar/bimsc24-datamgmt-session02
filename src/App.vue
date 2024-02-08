@@ -129,7 +129,7 @@ onMounted(() => {
 <!-- Style is for CSS styling -->
 <style>
 :root {
-	--primary: #EA40A4;
+	--primary: #ff0000;
 	--business: #3A82EE;
 	--personal: var(--primary);
 	--light: #EEE;
